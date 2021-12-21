@@ -38,7 +38,7 @@ function findFourth(numbers) {
   }
 
 // Q: What is the time complexity of of this solution?
-// ANSWER: O(n)
+// ANSWER: O(1)
 
 // Q: Given an array of numbers, what is the space complexity of this function?
 // ANSWER: O(n)
